@@ -1,7 +1,11 @@
 nombre = "Lucas"
 edad = 19
-carrera = "analista de datos"
+carrera = "ciencia de datos"
+altura = 1.72
+estudia = True
 
-print (nombre)
-print (edad)
-print (carrera)
+print(type(nombre))
+print(type(edad))
+print(type(carrera))
+print(type(altura))
+print(type(estudia))
